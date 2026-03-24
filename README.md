@@ -1,4 +1,4 @@
-# 💰 [PayWebme](#) | [Demo](https://multiracer.github.io/Paywebme/)
+# 💰 [PayWebme](#) | [Demo](https://mr-payweb.vercel.app/)
 
 A clean and simple webpage to accept payments from both **Indian** and **international** users.
 
