@@ -76,4 +76,4 @@ To make it easier for friends, clients, and supporters to receive payments — n
 
 ## 🥳 CREDIT
 
-- [TechifyBots](https://github.com/TechifyBots)
+- Bot
