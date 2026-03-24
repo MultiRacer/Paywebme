@@ -1,4 +1,4 @@
-# 💰 [PayWeb](https://youtu.be/TrsXoI-JAW8) | [Demo](https://TechifyBots.github.io/PayWeb)
+# 💰 [PayWebme](#) | [Demo]()
 
 A clean and simple webpage to accept payments from both **Indian** and **international** users.
 
